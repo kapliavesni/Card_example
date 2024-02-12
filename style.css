@@ -1,0 +1,28 @@
+body {font-family: 'Outfit', sans-serif; background-color:  hsl(217, 54%, 11%); font-size: 18px;}
+
+.content {background-color: hsl(216, 50%, 16%); margin-top: 100px; margin-bottom: 150px; margin-left: 600px; margin-right: 600px; text-align: center; border-radius: 5%; font-size: 18px;}
+
+.cube { width: 260px; text-align: center; border-radius: 5%; margin-top: 30px;} 
+     
+h1 {text-align: left; color: white; padding-top: 20px; margin-top: 0; margin-left: 30px; font-size: 18px;}
+
+.text {text-align: left; margin: 10px; color: hsl(215, 51%, 70%); font-size: 18px; margin-left: 30px;}
+
+.picture1 {width: min-content; padding: 10px;}
+
+.time {display: flex; justify-content: flex-start; align-items: center;}
+
+.time2 {display: flex; font-size: small; justify-content: space-between; margin: 38px; margin-top: 10px; margin-bottom: 10px; border-color: white; border-bottom: 1px solid white;}
+
+span {color: white;}
+
+.author {display: flex; font-size: small; flex-direction: row; margin-left: 40px;}
+
+.avatar {width: 30px; border: 1px solid white; border-radius: 100%;}
+
+.cont {margin-inline-start: 10px;}
+
+
+
+
+
